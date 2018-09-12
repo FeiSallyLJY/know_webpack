@@ -256,3 +256,4 @@ new ExtractTextPlugin("style.css"),
 "uglify-js-plugin": "^0.0.6",
 "url-loader": "^1.1.1",
 "webpack": "^3.5.6"
+
